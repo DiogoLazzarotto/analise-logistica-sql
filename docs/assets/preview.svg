@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Análise logística SQL">
+<rect width="1200" height="760" fill="#0d1420"/>
+<text x="44" y="58" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" fill="#edf4fb" font-weight="700">Análise logística SQL</text>
+<text x="44" y="92" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" fill="#a8bad0" font-weight="400">SQLite · modelo relacional · JOIN / LEFT JOIN · restrições e triggers</text>
+<rect x="44" y="124" width="354" height="116" rx="14" fill="#162131" stroke="#2d3e54"/>
+<text x="64" y="157" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#a8bad0" font-weight="400">Volume solicitado</text>
+<text x="64" y="207" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" fill="#6cd9ed" font-weight="700">31.000 kg</text>
+<rect x="418" y="124" width="354" height="116" rx="14" fill="#162131" stroke="#2d3e54"/>
+<text x="438" y="157" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#a8bad0" font-weight="400">Pedidos pendentes</text>
+<text x="438" y="207" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" fill="#6cd9ed" font-weight="700">2</text>
+<rect x="792" y="124" width="354" height="116" rx="14" fill="#162131" stroke="#2d3e54"/>
+<text x="812" y="157" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#a8bad0" font-weight="400">Ocupação da viagem 1</text>
+<text x="812" y="207" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" fill="#6cd9ed" font-weight="700">87,5%</text>
+<text x="44" y="280" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#edf4fb" font-weight="700">Volume por data</text>
+<text x="52" y="316" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#a8bad0" font-weight="400">2026-09-30</text>
+<text x="750" y="316" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#edf4fb" font-weight="700">24.000 kg</text>
+<path d="M44 328 H1156" stroke="#2d3e54"/>
+<text x="52" y="362" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#a8bad0" font-weight="400">2026-10-01</text>
+<text x="750" y="362" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#edf4fb" font-weight="700">7.000 kg</text>
+<path d="M44 374 H1156" stroke="#2d3e54"/>
+<text x="44" y="432" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" fill="#edf4fb" font-weight="700">Ocupação por viagem</text>
+<text x="52" y="468" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#a8bad0" font-weight="400">Viagem 1 · Caminhão A</text>
+<text x="750" y="468" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#edf4fb" font-weight="700">14.000 / 16.000 kg</text>
+<path d="M44 480 H1156" stroke="#2d3e54"/>
+<text x="52" y="514" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#a8bad0" font-weight="400">Viagem 2 · Caminhão B</text>
+<text x="750" y="514" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#edf4fb" font-weight="700">0 / 18.000 kg</text>
+<path d="M44 526 H1156" stroke="#2d3e54"/>
+<text x="44" y="727" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" fill="#a8bad0" font-weight="400">Dados fictícios · prévia dos resultados executados · sem métricas de produção real</text>
+</svg>

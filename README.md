@@ -1,6 +1,14 @@
 # Análise logística com SQL
 
-Modelo relacional e consultas para pedidos, produtores, produtos, veículos e entregas. Dados fictícios; projeto demonstrativo preparado com apoio de IA.
+[![Testes](https://github.com/DiogoLazzarotto/analise-logistica-sql/actions/workflows/tests.yml/badge.svg)](https://github.com/DiogoLazzarotto/analise-logistica-sql/actions/workflows/tests.yml)
+
+Modelo relacional e consultas para pedidos, produtores, produtos, veículos e entregas. Dados fictícios; projeto demonstrativo.
+
+## Prévia dos resultados
+
+![Prévia dos resultados do exemplo fictício](docs/assets/preview.svg)
+
+Imagem gerada a partir da execução dos dados fictícios; representa os resultados e regras, sem ser uma captura da interface. Reproduza com `python scripts/generate_preview.py`.
 
 ## Executar
 
@@ -47,3 +55,7 @@ cd analise-logistica-sql
 ```
 
 [Voltar ao perfil](https://github.com/DiogoLazzarotto)
+
+## Verificação automática
+
+O GitHub Actions executa os testes em Python 3.11 e 3.12 em pushes para `main` e pull requests. Também regenera e compara a prévia com o arquivo versionado.
